@@ -1,0 +1,25 @@
+.card{
+    width: 350px;
+    height: 350px;
+    border: 1px solid transparent;
+    box-shadow: 5px 5px 5px 5px silver;
+    border-radius: 20px;
+}
+.card img{
+    margin-top: 5px;
+    border-radius: 20px;
+    width: 330px;
+    height: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.card{
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #394E6A;
+}
+.card h1{
+    font-size: 25px;
+}
